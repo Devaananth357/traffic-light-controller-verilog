@@ -1,15 +1,14 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company: nil
+// Engineer: Devaananth
 // 
 // Create Date: 24.09.2026 17:48:23
-// Design Name: 
+// Design Name: traffic_light_controller
 // Module Name: traffic_light_controller
-// Project Name: 
-// Target Devices: 
+// Project Name: traffic_light_controller
+// Target Devices: nil
 // Tool Versions: 
-// Description: 
 // 
 // Dependencies: 
 // 
