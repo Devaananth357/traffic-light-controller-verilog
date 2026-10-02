@@ -1,23 +1,4 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: nil
-// Engineer: Devaananth
-// 
-// Create Date: 24.09.2026 17:48:23
-// Design Name: traffic_light_controller
-// Module Name: traffic_light_controller
-// Project Name: traffic_light_controller
-// Target Devices: nil
-// Tool Versions: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
-
 
 module traffic_light_controller(
     input clk,
